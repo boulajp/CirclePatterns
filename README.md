@@ -1,5 +1,4 @@
-#Spirograph Generator
-Spirograph Generator is just what its name implies; a generator of spirographs.
+Its just what its name implies; a generator of spirographs.
 I wrote this during the summer of 2014 after watching a gif of something similar.
 Developed with .NET in Visual Studio
 
