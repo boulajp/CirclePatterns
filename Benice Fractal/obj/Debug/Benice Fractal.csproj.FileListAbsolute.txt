@@ -1,0 +1,21 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Benice Fractal\Benice Fractal\bin\Debug\Benice Fractal.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\Benice Fractal\Benice Fractal\bin\Debug\Benice Fractal.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Benice Fractal\Benice Fractal\bin\Debug\Benice Fractal.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Benice Fractal\Benice Fractal\obj\Debug\Benice Fractal.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\Benice Fractal\Benice Fractal\obj\Debug\Benice_Fractal.MainForm.resources
+c:\users\administrator\documents\visual studio 2013\Projects\Benice Fractal\Benice Fractal\obj\Debug\Benice_Fractal.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\Benice Fractal\Benice Fractal\obj\Debug\Benice Fractal.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\Benice Fractal\Benice Fractal\obj\Debug\Benice Fractal.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Benice Fractal\Benice Fractal\obj\Debug\Benice Fractal.pdb
+C:\Users\Jonathan\Desktop\Benice Fractal\Benice Fractal\bin\Debug\Benice Fractal.exe.config
+C:\Users\Jonathan\Desktop\Benice Fractal\Benice Fractal\obj\Debug\Benice Fractal.exe
+C:\Users\Jonathan\Desktop\Benice Fractal\Benice Fractal\obj\Debug\Benice Fractal.pdb
+C:\Users\Jonathan\Desktop\Benice Fractal\Benice Fractal\bin\Debug\Benice Fractal.exe
+C:\Users\Jonathan\Desktop\Benice Fractal\Benice Fractal\bin\Debug\Benice Fractal.pdb
+C:\Users\Jonathan\Desktop\Benice Fractal\Benice Fractal\obj\Debug\Benice Fractal.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Benice Fractal\Benice Fractal\obj\Debug\Benice_Fractal.MainForm.resources
+C:\Users\Jonathan\Desktop\Benice Fractal\Benice Fractal\obj\Debug\Benice_Fractal.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\Benice Fractal\Benice Fractal\obj\Debug\Benice Fractal.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Desktop\Stuff\Spirograph Generator\Benice Fractal\bin\Debug\Benice Fractal.exe.config
+C:\Users\Jonathan\Desktop\Stuff\Spirograph Generator\Benice Fractal\obj\Debug\Benice Fractal.exe
+C:\Users\Jonathan\Desktop\Stuff\Spirograph Generator\Benice Fractal\obj\Debug\Benice Fractal.pdb

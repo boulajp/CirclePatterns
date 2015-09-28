@@ -1,0 +1,9 @@
+C:\Users\Jonathan\Desktop\Stuff\Spirograph Generator\Benice Fractal\bin\Debug\Spirograph Generator.exe.config
+C:\Users\Jonathan\Desktop\Stuff\Spirograph Generator\Benice Fractal\bin\Debug\Spirograph Generator.exe
+C:\Users\Jonathan\Desktop\Stuff\Spirograph Generator\Benice Fractal\bin\Debug\Spirograph Generator.pdb
+C:\Users\Jonathan\Desktop\Stuff\Spirograph Generator\Benice Fractal\obj\Debug\Spirograph_Generator.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Stuff\Spirograph Generator\Benice Fractal\obj\Debug\Spirograph_Generator.MainForm.resources
+C:\Users\Jonathan\Desktop\Stuff\Spirograph Generator\Benice Fractal\obj\Debug\Spirograph_Generator.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\Stuff\Spirograph Generator\Benice Fractal\obj\Debug\Spirograph_Generator.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Desktop\Stuff\Spirograph Generator\Benice Fractal\obj\Debug\Spirograph Generator.exe
+C:\Users\Jonathan\Desktop\Stuff\Spirograph Generator\Benice Fractal\obj\Debug\Spirograph Generator.pdb
