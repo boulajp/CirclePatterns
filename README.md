@@ -2,7 +2,7 @@
 
 CirclePatterns is a generator of spirographic art.
 
-I wrote this after watching a gif of something similar.
+I wrote this after watching a gif of something similar.  
 Developed with .NET in Visual Studio
 
 As it should, most properties of the spirograph are variable.
