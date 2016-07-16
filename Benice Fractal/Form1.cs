@@ -12,7 +12,7 @@ namespace Spirograph_Generator
             InitializeComponent();
         }
 
-        // An bitmap will hold the locations of where the fractal is drawn
+        // A bitmap will hold the locations of where the fractal is drawn
         Bitmap Fractal;
 
         // This is the previously drawn point
