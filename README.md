@@ -14,8 +14,8 @@ Here is a sample of three resulting images from running the program:
 ![](https://raw.githubusercontent.com/jpatomic96/Spirograph-Generator/master/Images/Sample.png)
 
 I was inspired to make this after seeing a GIF of something similar:
-![](https://raw.githubusercontent.com/jpatomic96/Spirograph-Generator/master/Images/Inspiration.png)
+![](https://raw.githubusercontent.com/jpatomic96/Spirograph-Generator/master/Images/Inspiration.gif)
 (Credit to http://benice-equation.blogspot.ca/)
 
 Here's an explanation (My apologies for not writing this in LaTeX)
-![](https://raw.githubusercontent.com/jpatomic96/Spirograph-Generator/master/Images/Explanation.png)
+![](https://raw.githubusercontent.com/jpatomic96/Spirograph-Generator/master/Images/Explanation.jpg)
