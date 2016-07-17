@@ -21,5 +21,5 @@ I was inspired to make this after seeing a GIF of something similar:
 (Credit to http://benice-equation.blogspot.ca/)
 
 ## Explanation
-Here's an explanation (My apologies for not writing this in LaTeX)
+Here's my explanation for how the circles move relative to eachother (My apologies for not writing this in LaTeX)
 ![](https://raw.githubusercontent.com/jpatomic96/Spirograph-Generator/master/Images/Explanation.jpg)
